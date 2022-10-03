@@ -1,5 +1,5 @@
 {
- sensor_data:[
+ sensorData: [
  {"id":101,"device_id":12,"tenstion ":79,"water":68,"temperature":38,"continuty":0,"timestamp":1664744400000,"username":"Ivan"},
  {"id":102,"device_id":13,"tenstion ":22,"water":96,"temperature":58,"continuty":79,"timestamp":1664830800000,"username":"Max"},
  {"id":103,"device_id":14,"tenstion ":65,"water":93,"temperature":78,"continuty":48,"timestamp":1664917200000,"username":"Max"},
