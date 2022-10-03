@@ -1,1 +1,5 @@
-{"0":{"id":101,"device_id":12,"tenstion ":79,"water":68,"temperature":38,"continuty":0,"timestamp":1664744400000,"username":"Ivan"},"1":{"id":102,"device_id":13,"tenstion ":22,"water":96,"temperature":58,"continuty":79,"timestamp":1664830800000,"username":"Max"},"2":{"id":103,"device_id":14,"tenstion ":65,"water":93,"temperature":78,"continuty":48,"timestamp":1664917200000,"username":"Max"},"3":{"id":104,"device_id":15,"tenstion ":31,"water":98,"temperature":91,"continuty":6,"timestamp":1665003600000,"username":"Artem"},"4":{"id":105,"device_id":16,"tenstion ":78,"water":11,"temperature":49,"continuty":52,"timestamp":1665090000000,"username":"Artem"}}
+[{"id":101,"device_id":12,"tenstion ":79,"water":68,"temperature":38,"continuty":0,"timestamp":1664744400000,"username":"Ivan"},
+ {"id":102,"device_id":13,"tenstion ":22,"water":96,"temperature":58,"continuty":79,"timestamp":1664830800000,"username":"Max"},
+ {"id":103,"device_id":14,"tenstion ":65,"water":93,"temperature":78,"continuty":48,"timestamp":1664917200000,"username":"Max"},
+ {"id":104,"device_id":15,"tenstion ":31,"water":98,"temperature":91,"continuty":6,"timestamp":1665003600000,"username":"Artem"},
+ {"id":105,"device_id":16,"tenstion ":78,"water":11,"temperature":49,"continuty":52,"timestamp":1665090000000,"username":"Artem"}]
